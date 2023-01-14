@@ -32,3 +32,6 @@ List of steps to configure a linux dev environment (Without context the list is 
 17. install the exercism CLI
 18. configure the exercism CLI to use your `~/projects/exercism` as your "workspace"
 19. download the first exercism exercise, and commit it
+
+
+Making changes to test github in VS Code
